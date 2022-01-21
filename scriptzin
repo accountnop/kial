@@ -1,0 +1,6 @@
+--[[
+Games:
+Pet Simu
+Mad city 
+--]]
+loadstring(game:HttpGet("https://www.toptal.com/developers/hastebin/raw/odeyidotuw"))()
